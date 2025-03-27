@@ -1,0 +1,10 @@
+.landing-header{
+    display: flex;
+    flex-direction: row;
+}
+#burger{
+    margin-left: 1100px;
+}
+#travel{
+    margin-left: 20px;
+}
